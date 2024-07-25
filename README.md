@@ -1,6 +1,6 @@
 # Todo App Java
 
-DUO Java Masterclass project
+DUO Java Masterclass project (September-October 2023)
 
 ## Deploy
 
